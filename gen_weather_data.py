@@ -15,7 +15,6 @@ import sys, getopt
 """
 To study the sample data
 Reference:
-http://www.bom.gov.au/climate/averages/tables/cw_08 6071_All.shtml
 http://www.australia.com/en/facts/weather/melbourne-weather.html
 https://www.australiasevereweather.com/cyclones/tropical_cyclone_intensity_scale.htm
 
