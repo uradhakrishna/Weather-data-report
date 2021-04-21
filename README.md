@@ -24,7 +24,7 @@ Execute the following command to get functionality,
 
 syntax : python3 gen_weather_data.py -i <path of the file>/<filename.tif> -r <ramdom station> (y/n)
 
-python3 gen_weather_data.py -i python3 gen_weather_data.py  -i /Users/uppugr1/workspace/weather-data/geo.tif -r y
+python3 gen_weather_data.py -i /Users/uppugr1/workspace/weather-data/geo.tif -r y
 
 # Generated sample data
 uppugr1@C02W20PWHTD8 generate-weather-data-master % pwd
