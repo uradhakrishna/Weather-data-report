@@ -1,4 +1,4 @@
-pip install rasterio
-pip install affine
-pip install pyproj
-pip install numpy
+pip3 install rasterio
+pip3 install affine
+pip3 install pyproj
+pip3 install numpy
