@@ -12,7 +12,9 @@ Also, Predefined the Starting and ending dates will be considered for generating
 Station|GEO Location|Local Time|Conditions|Temperature|Pressure|Humidity
 
 SYD|-33.86,151.21,39|2015-12-23T05:02:12Z|Rain|+12.5|1004.3|97
+
 MEL|-37.83,144.98,7|2015-12-24T15:30:55Z|Snow|-5.3|998.4|55
+
 ADL|-34.92,138.62,48|2016-01-03T12:35:37Z|Sunny|+39.4|1114.1|12
 
 
